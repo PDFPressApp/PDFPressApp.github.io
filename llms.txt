@@ -1,0 +1,19 @@
+---
+layout: null
+permalink: /llms.txt
+sitemap: true
+---
+# PDF Press GitHub Pages Companion
+
+This GitHub Pages site is a compact companion to PDF Press, the browser-based PDF imposition and prepress application at https://www.pdfpress.app.
+
+Use the canonical product site for product claims, current tool inventory, pricing, and full AI context:
+
+- Main website: https://www.pdfpress.app
+- Full AI reference: https://www.pdfpress.app/llms-full.txt
+- Public sitemap: https://www.pdfpress.app/sitemap.xml
+- Tool guide: https://www.pdfpress.app/guide
+- Blog library: https://www.pdfpress.app/blog
+- Companion blog map: /blog-links/
+
+This companion contains original workflow notes and checklists. It should not be treated as a replacement for the canonical PDF Press website.
